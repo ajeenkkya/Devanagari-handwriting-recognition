@@ -1,0 +1,2 @@
+This folder contains the photos as input.
+Name the images as character_(number) and it should be in order because of the for loop; its taking the images in order of the number.
